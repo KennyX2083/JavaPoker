@@ -15,3 +15,6 @@ Royal Flush—The best possible hand in poker. A 10, jack, queen, king, and ace,
 Instead of your player betting a single token each time, allow the player to bet between 1-5 tokens. If a player bets n tokens they win n times as much as indicated in the above prompt.
 
 This project requires two versions of your game each constructed using a different version of the Game constructor. One will require an explicit parameter that you will get as a command-line argument, this is to help you test your code. That is, it will allow the user to specify the hand that the player gets which will help in testing if your game correctly identifies the various hands
+
+
+This was an assignment for the COMS 1004W course.
